@@ -41,4 +41,4 @@ Ver `ANALISIS.md` para la explicación de la gramática, el driver, y los result
 
 ## Video
 
-Video de YouTube (no listado) con las pruebas y comentarios: _pendiente, agregar enlace aquí_.
+Video de YouTube (no listado) con las pruebas y comentarios: https://youtu.be/FVcYpgn4CHo
