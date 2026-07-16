@@ -1,0 +1,10 @@
+configs
+program/__pycache__
+
+# Archivos generados por ANTLR (se regeneran con `antlr -Dlanguage=Python3 MiniLang.g4`)
+program/*.interp
+program/*.tokens
+program/MiniLangLexer.py
+program/MiniLangParser.py
+program/MiniLangListener.py
+program/MiniLangVisitor.py
